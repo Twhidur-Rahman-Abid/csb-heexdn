@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://twhidur-rahman-abid.github.io/csb-heexdn/static/css/main.23a40a55.chunk.css",
+    "main.js": "https://twhidur-rahman-abid.github.io/csb-heexdn/static/js/main.01373801.chunk.js",
+    "main.js.map": "https://twhidur-rahman-abid.github.io/csb-heexdn/static/js/main.01373801.chunk.js.map",
+    "runtime-main.js": "https://twhidur-rahman-abid.github.io/csb-heexdn/static/js/runtime-main.baeca203.js",
+    "runtime-main.js.map": "https://twhidur-rahman-abid.github.io/csb-heexdn/static/js/runtime-main.baeca203.js.map",
+    "static/js/2.9ec0feec.chunk.js": "https://twhidur-rahman-abid.github.io/csb-heexdn/static/js/2.9ec0feec.chunk.js",
+    "static/js/2.9ec0feec.chunk.js.map": "https://twhidur-rahman-abid.github.io/csb-heexdn/static/js/2.9ec0feec.chunk.js.map",
+    "index.html": "https://twhidur-rahman-abid.github.io/csb-heexdn/index.html",
+    "static/css/main.23a40a55.chunk.css.map": "https://twhidur-rahman-abid.github.io/csb-heexdn/static/css/main.23a40a55.chunk.css.map",
+    "static/js/2.9ec0feec.chunk.js.LICENSE.txt": "https://twhidur-rahman-abid.github.io/csb-heexdn/static/js/2.9ec0feec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baeca203.js",
+    "static/js/2.9ec0feec.chunk.js",
+    "static/css/main.23a40a55.chunk.css",
+    "static/js/main.01373801.chunk.js"
+  ]
+}
